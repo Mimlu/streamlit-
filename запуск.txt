@@ -1,1 +1,0 @@
-запуск: streamlit run st.py
